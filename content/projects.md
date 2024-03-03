@@ -31,7 +31,7 @@ slug = "projects"
     <img src="/images/topcoder.png" alt="TOPCODER">
     </div>
     <ul>
-        <li class="project-detail">Worked for challenges & projects with prize of total $25.000+</li>
+        <li class="project-detail">Worked for challenges & projects with prize of total $45.000+</li>
     </ul>
 </div>
 </div>
