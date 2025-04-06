@@ -33,7 +33,7 @@ disqusShortname = "okan.aslankan"
 
     hideFooter = false
     hideCredits = false
-    hideCopyright = false
+    hideCopyright = true
     since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
@@ -52,7 +52,7 @@ disqusShortname = "okan.aslankan"
     maxSeeAlsoItems = 5
 
     # Enable Twemoji
-    enableTwemoji = true
+    enableTwemoji = false
 
     # Custom CSS
     custom_css = []
