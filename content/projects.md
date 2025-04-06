@@ -36,6 +36,7 @@ slug = "projects"
 </div>
 </div>
 
+
 <h3>OTHER</h3>
 <p class="project-detail">Build different kinds of applications for customers all over the world. Created and sold CMS systems for local businesses. Build lots of side projects to keep my skills sharp in this journey.</p>
 
